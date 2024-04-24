@@ -7,4 +7,4 @@
 **this is bold text**
 *this is italic text*
 
-[App URL]=("google.com")
+[App URL]("google.com")
