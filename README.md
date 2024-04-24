@@ -15,3 +15,5 @@
 | Cell 1   | Cell 2   |
 | Cell 3   | Cell 4   |
 
+The sky is `#87CEEB` in HEX, `rgb(135, 206, 235)` in RGB, and `hsl(197, 71%, 72%)` in HSL.
+
