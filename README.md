@@ -10,16 +10,8 @@
 [App URL](https://chat.openai.com)
 
 
-# My Project
+| Header 1 | Header 2 |
+|----------|----------|
+| Cell 1   | Cell 2   |
+| Cell 3   | Cell 4   |
 
-This is an example project.
-
-## Section 1
-
-<span style="color:blue">This is blue text.</span>
-
-## Section 2
-
-<div style="background-color:yellow">
-This section has a yellow background.
-</div>
